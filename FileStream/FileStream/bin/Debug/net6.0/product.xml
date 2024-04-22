@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>Mavi qatarin sirri</Name>
+  <Description>Dedektiv janrinda kitab</Description>
+  <Price>6.99</Price>
+  <DiscountPercet>1</DiscountPercet>
+</Product>

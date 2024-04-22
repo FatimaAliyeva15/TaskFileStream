@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\FileStream\FileStream\bin\Debug\net6.0\FileStream.exe
+C:\Users\Asus\source\repos\FileStream\FileStream\bin\Debug\net6.0\FileStream.deps.json
+C:\Users\Asus\source\repos\FileStream\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+C:\Users\Asus\source\repos\FileStream\FileStream\bin\Debug\net6.0\FileStream.dll
+C:\Users\Asus\source\repos\FileStream\FileStream\bin\Debug\net6.0\FileStream.pdb
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.dll
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\refint\FileStream.dll
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.pdb
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FileStream\FileStream\obj\Debug\net6.0\ref\FileStream.dll
